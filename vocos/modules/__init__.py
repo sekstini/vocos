@@ -1,0 +1,1 @@
+from vocos.modules.convnext import ConvNeXtBlock
